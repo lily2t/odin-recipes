@@ -1,1 +1,2 @@
 # odin-recipes
+In this project i´ll be rehearsing my html knowledge by applying the basic html elements and tags. By the end of this project i will be able to grasp a solid insight about how html works.  
