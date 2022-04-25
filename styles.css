@@ -1,0 +1,23 @@
+header{
+    background-color: blanchedalmond;
+}
+body{
+    background-color:blanchedalmond;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.center {
+    height: 400px;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+.content{
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
