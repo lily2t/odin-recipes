@@ -8,18 +8,14 @@ body{
     margin-right: auto;
 }
 
-.butt{
-    padding: 10px 20px;
-    font-size: 25px;
+.button{
     background-color: aqua;
-    font-weight: 500;
-    line-height: 20px;
-    text-decoration: none;
+    padding: 10px;
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
     align-items: center;
-    display: inline-block;
-    margin-left: auto;
-    margin-right: auto;
-    
+    margin: auto;
 }
 img{
     height: 400px;
